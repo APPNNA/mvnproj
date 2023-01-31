@@ -7,12 +7,12 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Nice day DEVOPS.....</h1>
-        <h1>Nice day DEVOPS.....</h1>
+        <h1> 8 to 9 DEVOPS.....</h1>
+        <h1> 9 to 10 DEVOPS.....</h1>
         <h1>Nice day DEVOPS.....</h1>
 
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="40%" bgcolor="blue" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
