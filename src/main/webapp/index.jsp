@@ -7,8 +7,8 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1> 8 to 9 DEVOPS.....</h1>
-        <h1> 9 to 10 DEVOPS.....</h1>
+        <h1> DEVOPS 8 to 9 BATCH.....</h1>
+        <h1> DEVOPS 9 to 10 BATCH.....</h1>
         <h1>Nice day DEVOPS.....</h1>
 
 
