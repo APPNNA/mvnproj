@@ -7,12 +7,12 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
+        <h1> DEVOPS 7to 8 BATCH.....</h1>
         <h1> DEVOPS 8 to 9 BATCH.....</h1>
-        <h1> DEVOPS 9 to 10 BATCH.....</h1>
         <h1>Nice day DEVOPS.....</h1>
 
 
-<table width="50%" bgcolor="olive green" align="center" border="2">
+<table width="50%" bgcolor="navyblue " align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
@@ -20,7 +20,7 @@
 
 <tr>
 <td>Username:</td>
-<td><input type="text" size=25 name="userid"></td>
+<td><input type="text" size=20 name="userid"></td>
 </tr>
 
 <tr>
