@@ -7,12 +7,12 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1> DEVOPS 7to8 BATCH.....</h1>
-        <h1> DEVOPS 8to9 BATCH.....</h1>
+        <h1> DEVOPS 7to9 BATCH.....</h1>
+        <h1> DEVOPS 9to10BATCH.....</h1>
         <h1>Nice day DEVOPS.....</h1>
 
 
-<table width="40%" bgcolor="vilot" align="center" border="2">
+<table width="50%" bgcolor="blue" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
