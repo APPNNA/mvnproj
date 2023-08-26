@@ -8,7 +8,7 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1> DEVOPS 7to9 BATCH.....</h1>
-        <h1> DEVOPS 9to10BATCH.....</h1>
+        <h1> DEVOPS 9to10 BATCH.....</h1>
         <h1>Nice day DEVOPS.....</h1>
 
 
